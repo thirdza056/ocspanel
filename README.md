@@ -13,7 +13,7 @@ Requirements
 ---------
 
 ##### Hosting
-* PHP versi 5.5. keatas.
+* PHP versi 5.4 keatas.
 * MySQL versi 5.0.0 keatas.
 
 ##### VPS
