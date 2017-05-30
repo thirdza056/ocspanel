@@ -27,6 +27,7 @@ Installation
 Contributing
 ------------
 Jika menemukan masalah silahkan *Create Issue* & *Pull Request*.
+atau inbok ke https://www.facebook.com/adipati.aarya
 
 Creadits
 --------
@@ -38,5 +39,5 @@ Donations
 
 Copyright & License
 -------
-Copyright (c) 2017 Adipati Arya https://www.facebook.com/adipati.aarya
+Copyright (c) 2017 Adipati Arya 
 [GNU Public License](http://www.gnu.org/licenses/gpl-3.0.html)
