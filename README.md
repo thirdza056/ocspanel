@@ -16,9 +16,6 @@ Requirements
 * PHP versi 5.4 keatas.
 * MySQL versi 5.0.0 keatas.
 
-##### VPS
-
-* Tested debian vps untuk versi os lain bisa di coba
 
 Installation
 ------------
