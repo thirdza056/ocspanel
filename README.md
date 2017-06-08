@@ -32,11 +32,10 @@ atau inbok ke https://www.facebook.com/adipati.aarya
 Creadits
 --------
 
-Donations
+Moral Donations
 ---------
 * paypal aryaadipati2@gmail.com
-* Bank BCA `84203113561` a/n `SURATMAN`
-
+* Send pulsa 081295578088.
 Copyright & License
 -------
 Copyright (c) 2017 Adipati Arya 
