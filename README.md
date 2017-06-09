@@ -35,8 +35,8 @@ Creadits
 Moral Donations
 ---------
 * paypal aryaadipati2@gmail.com
-* Send pulsa 081295578088.
+* BCA 842 031 3561
 Copyright & License
--------
+------------
 Copyright (c) 2017 Adipati Arya 
 [GNU Public License](http://www.gnu.org/licenses/gpl-3.0.html)
