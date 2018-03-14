@@ -39,7 +39,7 @@ apt-get -y install git
 #install OCS Panel
 cd /home/vps/public_html
 git init
-git remote add origin https://github.com/thirdza056/ocspanel.git
+git remote add origin https://github.com/stevenindarto/ocspanel.git
 git pull origin master
 chmod 777 /home/vps/public_html/config
 chmod 777 /home/vps/public_html/config/config.ini
